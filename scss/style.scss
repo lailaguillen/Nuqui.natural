@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+@import "footer";
+@import "nosotros";
+@import "accesorios";
+@import "contacto";
+@import "productosCapilares";
+
+/*INICIO*/
+
+.carousel-item {
+  background-image: url(/IMG/tim-mossholder-ArQIWcmOlA8-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 59vh;
+}
+
+.carousel__item--background-img2 {
+  background-image: url(/IMG/element5-digital-WCPg9ROZbM0-unsplash.jpg);
+}
+
+.carousel__item--background-img3 {
+  background-image: url(/IMG/diana-akhmetianova-pBBxMUCgwuU-unsplash.jpg);
+}
+
+.carousel__text--color {
+  color: #165e22;
+  font-size: 30px;
+}
+
+.carousel__text--color3 {
+  color: rgb(81, 199, 107);
+  font-size: 30px;
+}
+
+.carousel__text--color2 {
+  color: #06310f;
+}
+
+.titulo {
+  color: rgb(140, 243, 140);
+  font-style: oblique;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.navbar__background--color {
+  background-color: #37554b;
+}
+
+.nav__items {
+  font-size: 100%;
+  align-items: center;
+}
+
+.nav__items .nav__items--item-color {
+  color: rgb(255, 255, 255);
+}
+
+.nav__items .nav__items--item-colorContacto {
+  color: rgb(140, 233, 18);
+}
+
+.navBoton__item--backgroundColor {
+  background-color: #37554b;
+  border: unset;
+}
+
+.nav__items--item-colorInicio {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.card__card--color-text {
+  color: #086100;
+}
+
+.boton__card--backgroundcolor-text {
+  background-color: #206902;
+  color: black;
+}

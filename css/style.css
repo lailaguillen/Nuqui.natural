@@ -1,0 +1,197 @@
+@charset "UTF-8";
+.footer__background--color {
+  background-color: #37554b;
+}
+
+.footer__text--color {
+  color: antiquewhite;
+}
+
+.cardImg__nosotros--height {
+  height: 400px;
+  margin-top: 1%;
+}
+
+.cardTitle__text--colorAndStyle {
+  font-size: 100%;
+  font-style: oblique;
+  text-decoration: underline;
+  color: #328b32;
+  font-weight: 600;
+}
+
+/*accesorios*/
+.card__accesorios--styles {
+  margin-top: 8%;
+  margin-left: 30%;
+  width: 70%;
+}
+
+.card__accesorios--styles2 {
+  margin-right: 4%;
+  margin-top: 8%;
+  width: 70%;
+}
+
+.card__accesorios--styles3 {
+  margin-right: 4%;
+  margin-top: 8%;
+  margin-left: 14%;
+  width: 70%;
+}
+
+.card__title--style {
+  font-weight: 600;
+  font-size: 110%;
+}
+
+.card__text--style {
+  font-size: 86%;
+}
+
+.card__col--size {
+  height: 300px;
+  margin-bottom: 5%;
+}
+
+.card__img--height {
+  height: 162px;
+}
+
+.card__img--height2 {
+  height: 163px;
+}
+
+/*contacto*/
+.contactos__formulario--margin {
+  margin: 5% 30% 10% 30%;
+}
+
+.contactos__contactos--styleText {
+  font-size: 200%;
+  font-style: oblique;
+  color: #345701;
+  font-weight: 600;
+  margin-left: 8%;
+  margin-top: 2%;
+}
+
+.contactos__titleLabel--styleText {
+  font-weight: 600;
+  font-size: 120%;
+}
+
+.contactos__boton--style {
+  background-color: #37554b;
+  border: unset;
+  height: 35px;
+  padding: 1%;
+}
+
+.contacto__btnLimpiar-style {
+  background-color: #854a4a;
+  color: white;
+  padding: 1%;
+}
+
+/*productos capilares*/
+.cards__card--margin {
+  margin-top: 1%;
+}
+
+.card__tamaño--style {
+  width: 450px;
+  padding: 5%;
+  margin: 0 0 0 30%;
+}
+
+.card__tamaño--style2 {
+  width: 450px;
+  padding: 5%;
+  margin: 0 10% 0 0;
+}
+
+.card__title--font {
+  font-weight: 800;
+  color: #4d6a22;
+}
+
+.card__text--font {
+  font-weight: 600;
+}
+
+/*INICIO*/
+.carousel-item {
+  background-image: url(/IMG/tim-mossholder-ArQIWcmOlA8-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  min-height: 59vh;
+}
+
+.carousel__item--background-img2 {
+  background-image: url(/IMG/element5-digital-WCPg9ROZbM0-unsplash.jpg);
+}
+
+.carousel__item--background-img3 {
+  background-image: url(/IMG/diana-akhmetianova-pBBxMUCgwuU-unsplash.jpg);
+}
+
+.carousel__text--color {
+  color: #165e22;
+  font-size: 30px;
+}
+
+.carousel__text--color3 {
+  color: #51c76b;
+  font-size: 30px;
+}
+
+.carousel__text--color2 {
+  color: #06310f;
+}
+
+.titulo {
+  color: #8cf38c;
+  font-style: oblique;
+  font-size: 40px;
+  font-weight: 200;
+}
+
+.navbar__background--color {
+  background-color: #37554b;
+}
+
+.nav__items {
+  font-size: 100%;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.nav__items .nav__items--item-color {
+  color: white;
+}
+
+.nav__items .nav__items--item-colorContacto {
+  color: #8ce912;
+}
+
+.navBoton__item--backgroundColor {
+  background-color: #37554b;
+  border: unset;
+}
+
+.nav__items--item-colorInicio {
+  color: white;
+  text-decoration: none;
+}
+
+.card__card--color-text {
+  color: #086100;
+}
+
+.boton__card--backgroundcolor-text {
+  background-color: #206902;
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */
