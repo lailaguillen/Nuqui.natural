@@ -50,3 +50,29 @@
   background-color: #206902;
   color: black;
 }
+
+@media (max-width: 1300px) {
+  .texto {
+    color: rgb(19, 43, 21);
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 768px) {
+  .texto {
+    color: rgb(19, 43, 21);
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar-nav {
+    flex-direction: column;
+  }
+  .titulo {
+    text-align: center;
+  }
+  .texto {
+    font-size: 50%;
+  }
+}
